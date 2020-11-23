@@ -1,8 +1,8 @@
 {
-    "identityPoolName": "peica_identitypool_f128d8ff",
+    "identityPoolName": "peica_identitypool_2a7fdbb8",
     "allowUnauthenticatedIdentities": true,
     "authSelections": "identityPoolOnly",
-    "resourceName": "cognito121253fa",
+    "resourceName": "cognito12bdfd52",
     "authRoleArn": {
         "Fn::GetAtt": [
             "AuthRole",

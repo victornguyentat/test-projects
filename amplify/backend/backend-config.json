@@ -1,13 +1,13 @@
 {
   "auth": {
-    "cognito121253fa": {
+    "cognito12bdfd52": {
       "service": "Cognito",
       "serviceType": "managed",
       "providerPlugin": "awscloudformation"
     }
   },
   "interactions": {
-    "lex1edaa98b": {
+    "lex5f38fc45": {
       "service": "Lex",
       "providerPlugin": "awscloudformation",
       "build": true

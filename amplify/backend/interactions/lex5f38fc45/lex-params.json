@@ -1,5 +1,5 @@
 {
-    "resourceName": "lex1edaa98b",
+    "resourceName": "lex5f38fc45",
     "intents": [
         {
             "cancelMessage": "Okay, I have cancelled your reservation in progress.",
@@ -116,5 +116,5 @@
     ],
     "outputVoice": "Matthew",
     "botName": "BookTrip",
-    "coppa": false
+    "coppa": true
 }

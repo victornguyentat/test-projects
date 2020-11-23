@@ -327,7 +327,7 @@ exports.handler = function(event, context) {
             },
         
         ],
-        "childDirected": false,
+        "childDirected": true,
         "locale": "en-US",
         "abortStatement": {
             "messages": [
@@ -506,7 +506,7 @@ function ensureLambdaFunctionAccess(intent){
 
         const params = {
             FunctionName: lambdaName,
-            StatementId: `Lex-${intent.name}`+ "23e48faf",
+            StatementId: `Lex-${intent.name}`+ "b1d33799",
             Action: 'lambda:InvokeFunction',
             Principal: 'lex.amazonaws.com',
             SourceArn: `arn:aws:lex:${region}:${accountId}:intent:${intent.name}:*`,

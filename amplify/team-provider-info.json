@@ -1,19 +1,19 @@
 {
   "dev": {
     "awscloudformation": {
-      "AuthRoleName": "amplify-peica-dev-151709-authRole",
-      "UnauthRoleArn": "arn:aws:iam::217389264935:role/amplify-peica-dev-151709-unauthRole",
-      "AuthRoleArn": "arn:aws:iam::217389264935:role/amplify-peica-dev-151709-authRole",
+      "AuthRoleName": "amplify-peica-dev-164623-authRole",
+      "UnauthRoleArn": "arn:aws:iam::217389264935:role/amplify-peica-dev-164623-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::217389264935:role/amplify-peica-dev-164623-authRole",
       "Region": "ap-southeast-2",
-      "DeploymentBucketName": "amplify-peica-dev-151709-deployment",
-      "UnauthRoleName": "amplify-peica-dev-151709-unauthRole",
-      "StackName": "amplify-peica-dev-151709",
-      "StackId": "arn:aws:cloudformation:ap-southeast-2:217389264935:stack/amplify-peica-dev-151709/42c08fa0-2ae7-11eb-830c-0237089f1a58",
-      "AmplifyAppId": "dog4o33vhjs9m"
+      "DeploymentBucketName": "amplify-peica-dev-164623-deployment",
+      "UnauthRoleName": "amplify-peica-dev-164623-unauthRole",
+      "StackName": "amplify-peica-dev-164623",
+      "StackId": "arn:aws:cloudformation:ap-southeast-2:217389264935:stack/amplify-peica-dev-164623/39825080-2d4f-11eb-bbcf-025e372c1eb2",
+      "AmplifyAppId": "d7ggv6gxurbta"
     },
     "categories": {
       "auth": {
-        "cognito121253fa": {}
+        "cognito12bdfd52": {}
       }
     }
   }
